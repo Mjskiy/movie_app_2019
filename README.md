@@ -1,3 +1,9 @@
+# Study Link
+Movie json file:  https://yts.mx/api/v2/list_movies.json
+
+# setting
+npm i gh-pages
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
